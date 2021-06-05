@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Renata Caetano and my repository is @RPCaetano.
-- 👀 I'm looking for professional replacement.
+- 👀 I'm looking for a job in IT.
 - 🌱 I’m currently learning english, java script and curious about java.
-- 💞️ I'm looking to collaborate with everyone who needs me, professional or personal.
+- 💞️ I'm looking to collaborate with everyone who needs me.
 - 📫 How to reach me -->
 Instagram :https://www.instagram.com/re.pcaetano/
 Email: renatapcaetano@hotmail.com
