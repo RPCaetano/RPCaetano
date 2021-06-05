@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning english, java script and curious about java.
 - 💞️ I'm looking to collaborate with everyone who needs me, professional or personal.
 - 📫 How to reach me -->
-Instagram :@re.pcaetano
+Instagram :https://www.instagram.com/re.pcaetano/
 Email: renatapcaetano@hotmail.com
 Linkedin: https://www.linkedin.com/in/renata-caetano-431414188/
 
