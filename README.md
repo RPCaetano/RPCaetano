@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Renata Caetano and my repository is @RPCaetano.
+- 👋 Hi, I’m Renata Caetano .
 - 👀 I'm looking for a job in IT.
 - 🌱 I’m currently learning english, java script and curious about java.
 - 💞️ I'm looking to collaborate with everyone who needs me.
