@@ -1,6 +1,6 @@
 - 👩 Hi, I’m Renata Caetano .
 - 👀 I'm studying web full stack and I'm looking for a job in IT.
-- 🌱 I’m currently learning english, java script and curious about java.
+- 🌱 I’m currently learning english, java script and curious about anything.
 - 💞️ I'm looking to collaborate with everyone who needs me.
 - 💖 I love animals,flowers,family and the life.
 - 🤸‍♀️ I like to practice yoga and pilates.
