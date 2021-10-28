@@ -14,7 +14,7 @@
 - 📫 How to reach me -->
 Instagram :https://www.instagram.com/re.pcaetano/
 Email: renatapcaetano@hotmail.com
-Linkedin: https://www.linkedin.com/in/renata-caetano-431414188/
+Linkedin: https://www.linkedin.com/in/renatapcaetano/
 
 <!---
 RPCaetano/RPCaetano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
