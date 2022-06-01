@@ -1,15 +1,4 @@
-- 👩 Hi, I’m Renata Caetano .
-- 👀 I'm studying web full stack and I'm looking for a job in IT.
-- 🌱 I’m currently learning english, java script and curious about anything.
-- 💞️ I'm looking to collaborate with everyone who needs me.
-- 💖 I love animals,flowers,family and the life.
-- 🤸‍♀️ I like to practice yoga and pilates.
-- 📚 Latest readings to indicate:
-      + Esperto que o Diabo (Napoleon Hill);
-      O Poder do Agora(Eckhart Tolle);
-      O Poder do hábito (Charles Duhigg);
-      Morning Miracle (Hal Elrod);
-      O Poder da autorresponsabilidade (Paulo Vieira);
+ServiceNow
       
 - 📫 How to reach me -->
 Instagram :https://www.instagram.com/re.pcaetano/
